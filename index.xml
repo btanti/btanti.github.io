@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bryan Tantisujjatham</title>
-    <link>http://localhost:1313/</link>
+    <link>https://btanti.github.io/</link>
     <description>Recent content on Bryan Tantisujjatham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Jan 2021 09:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jan 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://btanti.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Work In Progress</title>
-      <link>http://localhost:1313/blog/test/</link>
+      <link>https://btanti.github.io/blog/test/</link>
       <pubDate>Sat, 23 Jan 2021 09:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/test/</guid>
+      <guid>https://btanti.github.io/blog/test/</guid>
       <description>Lorem ipsum Hi! I&amp;rsquo;m Bryan, an incoming Chemical Engineering graduate student at Cornell University. I completed my BS at Cornell University with a double major in Chemical Engineering and Computer Science, and a minor in Electrical Engineering. My interests include machine learning, hardware, MEMS, algorithms, embedded systems and computational chemistry. Outside of academics I&amp;rsquo;m an avid hiker and reader. I currently live in Ithaca, NY.</description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>http://localhost:1313/bkup/</link>
+      <link>https://btanti.github.io/bkup/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/bkup/</guid>
+      <guid>https://btanti.github.io/bkup/</guid>
       <description>Analysis of Algorithms
 CS 4820
 Analysis of Separation Processes
@@ -53,10 +53,10 @@ Foundations of Blockchain and Distributed Consensus (CMU)</description>
     
     <item>
       <title>Courses</title>
-      <link>http://localhost:1313/courses/</link>
+      <link>https://btanti.github.io/courses/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/courses/</guid>
+      <guid>https://btanti.github.io/courses/</guid>
       <description>Computer Science CS 2110: Object Oriented Programming
 CS 2800: Discrete Structures
 CS 3410: Computer System Organization and Programming
@@ -73,10 +73,10 @@ CS 6182: Foundations of Probabilistic Programming*
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://btanti.github.io/projects/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://btanti.github.io/projects/</guid>
       <description></description>
     </item>
     
