@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://btanti.github.io/sitemap.xml
